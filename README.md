@@ -81,6 +81,8 @@ Projeto desenvolvido em grupo no 1° período de Ciência da Computação — UN
 Projeto de uso educacional desenvolvido para a disciplina na UNINASSAU.  
 Todos os direitos sobre o conceito e design pertencem aos integrantes do grupo.
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ---
 
 ## 📧 Contato
