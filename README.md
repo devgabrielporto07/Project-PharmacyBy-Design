@@ -16,7 +16,11 @@ O projeto passou pelas etapas:
 - 🎨 Prototipação de telas no Figma
 - 📋 Organização e gestão via Trello
 
-> ⚠️ **Projeto em desenvolvimento** — algumas entregas ainda estão em andamento.
+> ⚠️ Status: Discontinued
+
+This project was discontinued by team decision. The repository remains public as a record of the work completed.
+My contribution: Co-built the Figma UI/UX design as part of a team and handled version control on the main branch.
+AI usage: I did not use AI.
 
 ---
 
